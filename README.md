@@ -6,7 +6,7 @@ Kelas : MI - 2C <br>
 
 ## Hasil Praktikum
 
-<img style="display: inline-block;" src="assets/images/img1.png" width="350">
+<img src="assets/images/img1.png" width="350">
 <img src="assets/images/img2.png" width="350">
 <img src="assets/images/img3.png" width="350">
 <img src="assets/images/img4.png" width="350">
