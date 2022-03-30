@@ -1,4 +1,4 @@
-# 06-flutter-dbsqlite
+# 06-sqlite-flutter
 
 Nama : Muhammad Abdiel Firjatullah <br>
 NIM : 2031710156 <br>
